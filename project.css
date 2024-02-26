@@ -3,10 +3,22 @@
 }
 body{
     margin: 0;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 1.3rem;
+}
+h1{
+    font-size: 3rem;
+}
+.container{
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+    border: 2px solid yellow;
 }
 
-
-
+.hero-text{
+    width: 60%;
+}
 
 .hero{
     background-color: #23424A;
