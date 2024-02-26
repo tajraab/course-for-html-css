@@ -1,0 +1,15 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+
+
+
+
+.hero{
+    background-color: #23424A;
+    color: #FFF;
+padding: 100px;
+}
