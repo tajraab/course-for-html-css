@@ -47,3 +47,12 @@ padding: 100px;
     flex-direction: row;
     gap: 100px;
 }
+.three-col{
+    background-color: green;
+}
+.accent text{
+    color: purple;
+}
+.three-col h2{
+    color: #87629a;
+}
