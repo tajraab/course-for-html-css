@@ -63,25 +63,35 @@ padding: 100px;
     padding: 3em 0;
     text-align: center;
 }
-.nav__list {
+.nav {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .nav__list {
+    list-style-type: none;
     margin: 0;
     padding: 0;
-    list-style: none;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .nav__item {
+    margin: 0 10px;
   }
   
   .nav__link {
-    color: #fff;
     text-decoration: none;
-    text-transform: uppercase;
-  }
-  
-  .nav__link--button {
-    background: #fff;
-    color: #136c72;
-    padding: 0.25em 1em;
-    border-radius: 10em;
+    color: white;
   }
   
   .nav__link:hover {
-    opacity: 0.75;
+    text-decoration: underline;
   }
+  
+  .nav__link--button {
+    background-color:grey;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
