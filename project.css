@@ -63,3 +63,25 @@ padding: 100px;
     padding: 3em 0;
     text-align: center;
 }
+.nav__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .nav__link {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+  .nav__link--button {
+    background: #fff;
+    color: #136c72;
+    padding: 0.25em 1em;
+    border-radius: 10em;
+  }
+  
+  .nav__link:hover {
+    opacity: 0.75;
+  }
