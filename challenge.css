@@ -13,4 +13,13 @@ img{
 }
 h1,h2{
     margin-top:0;
+    font-weight: 900;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.intro{
+    background:#F3EED9 ;
+    padding: 200px 0;
+    text-align: center;
+    color: #824936;
+
 }
