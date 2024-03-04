@@ -23,3 +23,17 @@ h1,h2{
     color: #824936;
 
 }
+.intro-text{
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 1.125rem;
+    color:#222C2A;
+}
+.section-three{
+    background-color: #222C2A;
+    color: #F3EED9;
+}
+.section-four{
+    
+
+}
